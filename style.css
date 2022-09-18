@@ -1,0 +1,44 @@
+
+.image{
+  text-align: center;
+}
+
+.boxofsearch{
+  background-color:#EEEEEE;
+}
+
+.bg-box-1{
+
+    background-color: #7EE5DA;
+    float: left;
+   height: 60px;
+    width: 35%;
+    padding: 10px;
+ margin-right: 2px;
+ margin-top: 2px;
+}
+
+.bg-box-2{
+    background-color: #70CCC2;
+    float: left;
+    width: 20%;
+    height: 80px;
+    margin-top: 2px;
+    
+
+
+}
+
+.bg-box-3{
+
+background-color: #62B3AA;
+float: left;
+width: 42.5%;
+height: 80px;
+margin-top: 2px;
+margin-left: 2px;
+}
+
+.Copyright{
+    margin-top: 15px;
+}
